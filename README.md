@@ -1,4 +1,4 @@
-# Foobar
+# SuperGit
 
 SuperGit is a CLI tool for generating Github Repositories
 
